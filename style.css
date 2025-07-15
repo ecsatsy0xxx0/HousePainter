@@ -12,10 +12,8 @@ a{
 }
 .header{
     background-color: rgba(0, 0, 0, 1);
-    height: 13vh;
+    height: 164px;
     width: 100%;
-    display: flex;
-    align-items: center;
     position: fixed;
     top: 0;
     left: 0;
@@ -28,6 +26,13 @@ a{
     transform: translateY(0);
 }
 
+.container{
+    max-width: 1920px;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    justify-content: space-between;
+}
 
 .logo{
     max-width: 65px;
@@ -39,14 +44,13 @@ a{
 }
 
 .header__logo{
-    padding: 64px 490px 64px 40px;
+    padding: 64px 0 64px 40px;
 }
 
 .header__block{
     display: flex;
     align-items: center;
     gap: 30px;
-    padding-right: 235px;
 }
 
 .header__block a{
@@ -91,6 +95,7 @@ a{
     display: flex;
     align-items: center;
     gap: 70px;
+    padding-right: 40px;
 }
 
 .foot--imgs{
