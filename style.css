@@ -12,7 +12,7 @@ a{
 }
 .header{
     background-color: rgba(0, 0, 0, 1);
-    height: 164px;
+    height: 13vh;
     width: 100%;
     position: fixed;
     top: 0;
@@ -28,6 +28,7 @@ a{
 
 .container{
     max-width: 1920px;
+        height: 13vh;
     display: flex;
     align-items: center;
     margin: 0 auto;
@@ -51,11 +52,13 @@ a{
     display: flex;
     align-items: center;
     gap: 30px;
+    padding-left: 260px;
 }
 
 .header__block a{
     display: flex;
     align-items: center;
+    cursor: pointer;
 }
 
 .block--text{
@@ -95,7 +98,7 @@ a{
     display: flex;
     align-items: center;
     gap: 70px;
-    padding-right: 40px;
+    padding-right: 90px;
 }
 
 .foot--imgs{
@@ -107,4 +110,12 @@ a{
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-size: 14px;
+}
+
+.block--menu{
+    background-color: #b0b0b0;
+    text-align: center;
+    max-width: 175px;
+    position: absolute;
+    
 }
