@@ -1,0 +1,108 @@
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:15fb8f83ec638bcbc84885e41b91f78af8ca03d19cb30cf89e3e5003833521a4&width=100%25&height=400&lang=ru_RU&scroll=true
+File Name: D:\Works\HTML_CSS\copy\hpainter.ru\services\constructor\1.0\js\index.htm
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans:wght@300..800&subset=latin,cyrillic
+File Name: D:\Works\HTML_CSS\copy\hpainter.ru\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: D:\Works\HTML_CSS\copy\hpainter.ru\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+File Name: D:\Works\HTML_CSS\copy\hpainter.ru\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4n.ttf
+File Name: D:\Works\HTML_CSS\copy\hpainter.ru\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+File Name: D:\Works\HTML_CSS\copy\hpainter.ru\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0C4n.ttf
+File Name: D:\Works\HTML_CSS\copy\hpainter.ru\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: D:\Works\HTML_CSS\copy\hpainter.ru\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://hpainter.ru/contacts
+File Name: D:\Works\HTML_CSS\copy\hpainter.ru\contacts.html
+Content Type: text/html
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: D:\Works\HTML_CSS\copy\hpainter.ru\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: D:\Works\HTML_CSS\copy\hpainter.ru\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-menusub-1.0.min.css
+File Name: D:\Works\HTML_CSS\copy\hpainter.ru\css\tilda-menusub-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/js/jquery-1.10.2.min.js
+File Name: D:\Works\HTML_CSS\copy\hpainter.ru\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: D:\Works\HTML_CSS\copy\hpainter.ru\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-lazyload-1.0.min.js
+File Name: D:\Works\HTML_CSS\copy\hpainter.ru\js\tilda-lazyload-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-menu-1.0.min.js
+File Name: D:\Works\HTML_CSS\copy\hpainter.ru\js\tilda-menu-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-menusub-1.0.min.js
+File Name: D:\Works\HTML_CSS\copy\hpainter.ru\js\tilda-menusub-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-polyfill-1.0.min.js
+File Name: D:\Works\HTML_CSS\copy\hpainter.ru\js\tilda-polyfill-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: D:\Works\HTML_CSS\copy\hpainter.ru\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-skiplink-1.0.min.js
+File Name: D:\Works\HTML_CSS\copy\hpainter.ru\js\tilda-skiplink-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-1.1.min.js
+File Name: D:\Works\HTML_CSS\copy\hpainter.ru\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-scale-1.0.min.js
+File Name: D:\Works\HTML_CSS\copy\hpainter.ru\js\tilda-zero-scale-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3264-3538-4532-b265-653733303165/ofontru_Trajan_1.woff
+File Name: D:\Works\HTML_CSS\copy\hpainter.ru\tild3264-3538-4532-b265-653733303165\ofontru_Trajan_1.woff
+Content Type: font/woff
+
+Uri: https://static.tildacdn.com/tild3330-3339-4162-b565-643434366661/favicon.ico
+File Name: D:\Works\HTML_CSS\copy\hpainter.ru\tild3330-3339-4162-b565-643434366661\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://static.tildacdn.com/tild6538-3139-4339-a632-306335663230/20240428__.svg
+File Name: D:\Works\HTML_CSS\copy\hpainter.ru\tild6538-3139-4339-a632-306335663230\20240428__.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.com/ws/project9358143/tilda-blocks-page56731007.min.css?t=1732460426
+File Name: D:\Works\HTML_CSS\copy\hpainter.ru\ws\project9358143\tilda-blocks-page56731007.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/ws/project9358143/tilda-blocks-page56731007.min.js?t=1732460426
+File Name: D:\Works\HTML_CSS\copy\hpainter.ru\ws\project9358143\tilda-blocks-page56731007.min.js
+Content Type: application/javascript
+
